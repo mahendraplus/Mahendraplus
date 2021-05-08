@@ -1,4 +1,4 @@
-# ≺ ᑥ∅ÐᱜƦ/≻ 
+# ≺ ᑥ∅ÐᱜƦ/≻ <br>
 <center>
 <p align="center">
   <img width="140" height="140" src="1.png">
