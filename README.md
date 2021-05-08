@@ -1,6 +1,8 @@
 # ≺ ᑥ∅ÐᱜƦ/≻ 
 <center>
-![alt text](https://avatars.githubusercontent.com/u/57547869?s=60&v=4 "m4u-yt") </center>
+<p align="center">
+  <img width="130" height="130" src="https://github.com/mahendraplus/mahendraplus/blob/main/1620462337056.png?raw=true">
+</p>
 
 <h1 align="center">  м4υ-ут</h1>
 <p align="center">
