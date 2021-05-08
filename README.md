@@ -15,7 +15,7 @@
 <p align="center">
 ⭗᠁᠁᠁᠁᠁ My 😏 Skills ᠁᠁᠁᠁᠁⭗<br></p>
 ⚝ Web Developer <br>
-⚝ Linux M ~~~~ aster <br>
+⚝ Linux Master <br>
 ⚝ Android Developer <br>
 ⚝ Qt Master <br>
 ⚝ Etç... <br>
