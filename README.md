@@ -1,10 +1,13 @@
-# ≺ ᑥ∅ÐᱜƦ/≻ <br>
-<center>
+# ≺ ᑥ∅ÐᱜƦ/≻ 
+<br>
+
 <p align="center">
   <img width="140" height="140" src="1.png">
 </p>
 
 <h1 align="center">  м4υ-ут</h1>
+<br>
+
 <p align="center">
 ╭━─━─━─╮〄≫─━─━─━╮ </br>
 ┃ .ᨀ Wєв ⚝ Dєνєℓσρєя .ᨀ ┃ </br>
