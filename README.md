@@ -1,7 +1,7 @@
 # ≺ ᑥ∅ÐᱜƦ/≻ 
 <center>
 <p align="center">
-  <img width="130" height="130" src="https://github.com/mahendraplus/mahendraplus/blob/main/1620462337056.png?raw=true">
+  <img width="130" height="130" src="1.png">
 </p>
 
 <h1 align="center">  м4υ-ут</h1>
