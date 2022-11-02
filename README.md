@@ -5,8 +5,10 @@
   <img width="140" height="140" src="1.png">
 </p>
 
-<h1 align="center">Mahendra Mali (Max)</h1>
+<h3 align="center">Mahendra Mali (Max)</h3>
 <br>
+
+## 🧑‍💻 Max Projects :
 
 
 ## 🌐 Socials:
