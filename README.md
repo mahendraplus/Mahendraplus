@@ -1,11 +1,9 @@
-# Mahendra Mali (Max)
-<br>
 
 <p align="center">
   <img width="140" height="140" src="1.png">
 </p>
 
-<h1 align="center">  Max</h1>
+<h1 align="center">Mahendra Mali (Max)</h1>
 <br>
 
 
