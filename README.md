@@ -9,8 +9,10 @@
 <br>
 
 ## 🧑‍💻 Max Projects :
-
-
+ [![](https://img.shields.io/badge/SMS_Bomber-v1.3-yellow)](https://mahendraplus.github.io/SMS-Bomber)
+ [![](https://img.shields.io/badge/B4Bomber-v1.1-red)](https://github.com/mahendraplus/b4bomber)
+ [![](https://img.shields.io/badge/WiFi_Wobble-Hacking_Tool-grren)](https://github.com/mahendraplus/WiFi-Wobble)
+ [![](https://img.shields.io/badge/Realme_U1-Lag_Solve_Script-orange)](https://github.com/mahendraplus/Realme-U1)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/m4u-xt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m4u.xt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m4u.xt) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m4u_) 
 
