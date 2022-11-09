@@ -1,0 +1,117 @@
+/*--------------------
+Body
+--------------------*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  background: transparent;
+}
+
+/*--------------------
+Mixins
+--------------------*/
+/*--------------------
+Wrapper
+--------------------*/
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 536px;
+  height: 547px;
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transform: translate(-50%, -50%) perspective(600px) rotateY(20deg) rotateX(10deg);
+          transform: translate(-50%, -50%) perspective(600px) rotateY(20deg) rotateX(10deg);
+}
+
+/*--------------------
+it'me 😂ᗯᗯᗯ.MᗩᕼEᑎᗪᖇᗩᑭᒪᑌS.ᑕOᗰ
+--------------------*/
+.me {
+  position: relative;
+  width: 369px;
+  height: 547px;
+  -webkit-transform: translateZ(100px) scale(0.9);
+          transform: translateZ(100px) scale(0.9);
+
+}
+.me::before, .me::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border-radius: 30px;
+  background: url("mahendraplus.png") no-repeat 0 0;
+}
+.me::after {
+  height: 30px;
+  top: auto;
+  bottom: 91px;
+  z-index: -1;
+  -webkit-filter: blur(15px);
+          filter: blur(15px);
+  background-size: 100% 30px;
+  border-radius: 100px;
+}
+.me .eye, .me .eye::before {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 168px;
+  left: 111px;
+  z-index: -1;
+  background: url(eye.png) no-repeat center;
+}
+.me .eye::before {
+  content: '';
+  top: 2px;
+  left: 97px;
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 390px;
+  height: 595px;
+  -webkit-transform: translateZ(150px) translateX(-11px) translateY(-26px) scale(0.55);
+          transform: translateZ(150px) translateX(-11px) translateY(-26px) scale(0.55);
+  border: 3px solid white;
+  text-align: center;
+  font-size: 100px;
+  line-height: 1000px;
+  color: white;
+  background: linear-gradient(135deg, white 0%, rgba(255, 255, 255, 0.36) 39%, rgba(255, 255, 255, 0.07) 41%, rgba(255, 255, 255, 0) 51%, black 100%);
+  opacity: .3;
+  border-radius: 8px;
+}
+.text::after {
+  content: 'Mahendraplus';
+  width: 100%;
+  position: absolute;
+  bottom: 22px;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  line-height: 1;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-indent: 10px;
+color: red;
+font-weight: bold;
+font-height: bold;
+}
