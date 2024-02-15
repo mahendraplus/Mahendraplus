@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Resizer</title>
+    <style>
+        #output {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <label for="imageInput">Upload an image:</label>
+    <input type="file" id="imageInput" accept="image/*">
+    <br>
+    <label for="pixelInput">Enter number of pixels:</label>
+    <input type="number" id="pixelInput">
+    <br>
+    <button onclick="resizeImage()">Resize Image</button>
+    <br>
+    <div id="output"></div>
+
+    <script>
+        function resizeImage() {
+            const imageInput = document.getElementById('imageInput');
+            const pixelInput = document.getElementById('pixelInput');
+            const outputDiv = document.getElementById('output');
+
+            const imageFile = imageInput.files[0];
+            const pixels = parseInt(pixelInput.value);
+
+            if (imageFile && pixels) {
+                const reader = new FileReader();
+
+                reader.onload = function (e) {
+                    const img = new Image();
+                    img.src = e.target.result;
+
+                    img.onload = function () {
+                        const canvas = document.createElement('canvas');
+                        const ctx = canvas.getContext('2d');
+
+                        const aspectRatio = img.width / img.height;
+                        const newWidth = Math.sqrt(pixels * aspectRatio);
+                        const newHeight = newWidth / aspectRatio;
+
+                        canvas.width = newWidth;
+                        canvas.height = newHeight;
+
+                        ctx.drawImage(img, 0, 0, newWidth, newHeight);
+
+                        outputDiv.innerHTML = '';
+                        outputDiv.appendChild(canvas);
+                    };
+                };
+
+                reader.readAsDataURL(imageFile);
+            } else {
+                alert('Please upload an image and enter the number of pixels.');
+            }
+        }
+    </script>
+</body>
+</html>￼Enter
