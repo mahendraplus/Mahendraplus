@@ -23,8 +23,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahendraplus&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraplus&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Dev Max Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![ꚸ MAX _ ×͜⌁ profile views](https://u8views.com/api/v1/github/profiles/57547869/views/day-week-month-total-count.svg)](https://u8views.com/github/mahendraplus)
 
 
 
