@@ -236,6 +236,24 @@
         .social-links img:hover {
             transform: scale(1.1);
         }
+.responsive-container {
+            max-width: 100%; /* Ensure the container doesn't exceed the width of the view */
+            padding: 10px; /* Optional padding */
+            margin: auto; /* Center the container */
+            box-sizing: border-box;
+        }
+
+        .responsive-container img {
+            width: 100%; /* Make the image responsive */
+            height: auto; /* Maintain the aspect ratio */
+        }
+
+        /* Additional styling for mobile */
+        @media (max-width: 768px) {
+            .responsive-container {
+                padding: 5px; /* Less padding for smaller screens */
+            }
+        }
     </style>
 </head>
 
@@ -308,11 +326,14 @@
                 </a>
             </div>
         </div>
-<a href="https://u8views.com/github/mahendraplus"><img src="https://u8views.com/api/v1/github/profiles/57547869/views/day-week-month-total-count.svg"></a>
-         
+
     </div>
 
-
+<div class="responsive-container">
+        <a href="https://u8views.com/github/mahendraplus">
+            <img src="https://u8views.com/api/v1/github/profiles/57547869/views/day-week-month-total-count.svg" alt="GitHub Views">
+        </a>
+    </div>
     <footer>
       
         Thank you for your support!<br>
