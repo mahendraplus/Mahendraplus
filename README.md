@@ -7,7 +7,10 @@
 
 <h3 align="center">Mahendra Mali (Max)</h3>
 <br>
-[![Donate](https://img.shields.io/badge/Donate-blue.svg?style=for-the-badge)](https://mahendraplus.github.io/Mahendraplus/)
+
+**🎓 Hey there! I'm a student working on exciting projects. If you like what I've made or want to support my journey, consider donating. Every little bit helps! 🙏**
+
+[Click here to Donate](https://mahendraplus.github.io/Mahendraplus/)
 
 ## 🧑‍💻 Max Projects :
  [![](https://img.shields.io/badge/SMS_Bomber-v1.3-yellow)](https://mahendraplus.github.io/SMS-Bomber)
