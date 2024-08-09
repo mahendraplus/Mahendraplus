@@ -7,6 +7,7 @@
 
 <h3 align="center">Mahendra Mali (Max)</h3>
 <br>
+[![Donate](https://img.shields.io/badge/Donate-blue.svg?style=for-the-badge)](https://mahendraplus.github.io/Mahendraplus/)
 
 ## 🧑‍💻 Max Projects :
  [![](https://img.shields.io/badge/SMS_Bomber-v1.3-yellow)](https://mahendraplus.github.io/SMS-Bomber)
@@ -25,11 +26,6 @@
 
 [![ꚸ MAX _ ×͜⌁ profile views](https://u8views.com/api/v1/github/profiles/57547869/views/day-week-month-total-count.svg)](https://u8views.com/github/mahendraplus)
 
-
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m4uu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mahendra7i7) 
 
  
   
