@@ -2,13 +2,13 @@
 ### [![Max](https://img.shields.io/badge/Mahendraplus-Max-blue)](https://github.com/mahendraplus/mahendraplus)
 
 <p align="center">
-  <img width="140" height="140" src="1.png">
+  <img width="140" height="140" src="[1.png](https://github.com/mahendraplus/Mahendraplus/blob/main/docs/files/profile_pic.jpg?raw=true)">
 </p>
 
 <h3 align="center">Mahendra Mali (Max)</h3>
 <br>
 
-**🎓 Hey there! I'm a student working on exciting projects. If you like what I've made or want to support my journey, consider donating. Every little bit helps! 🙏**
+**🎓 Hey there! I'm a student working on exciting projects. If you like what I've made or want to support my journey, consider donating. Every little bit helps! **
 
 [Click here to Donate](https://mahendraplus.github.io/Mahendraplus/)
 
